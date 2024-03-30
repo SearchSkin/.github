@@ -1,6 +1,6 @@
 <div align="center">
     <br />
-    <img src='./assets/img/logo.png' width="260" height="260" alt="logo" />
+    <img src='https://avatars.githubusercontent.com/u/144549356?s=200&v=4' width="260" height="260" alt="logo" />
     <br />
     <h1>Search Skin</h1>
 </div>
